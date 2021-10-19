@@ -1,2 +1,4 @@
 # Machine-Learning
-The repository contains various Machine Learning notebooks created along the study.
+
+The repository consists of implementations of various Machine Learning Algorithms.<br>
+The algorithms have been implemented using Python and the platform used is Jupyter Notebook of Anaconda Distribution.
